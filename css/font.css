@@ -1,0 +1,25 @@
+@charset "utf-8";
+@font-face {
+	font-family: SCDream;
+	src: url('../font/SCDream3.otf');
+	font-weight: normal;
+}
+@font-face {
+	font-family: Inkfont;
+	src: url('../font/InkLipquidFonts.woff');
+	font-weight: normal;
+}
+@font-face {
+	font-family: Getshowfont;
+	src: url('../font/GetShow.otf');
+	font-weight: bold;
+}
+
+html {font-size: 10px;}
+
+body {font-family: 'Inkfont', serif; font-size: 2rem;}
+
+h1, h2 {font-family: 'Getshowfont', serif;}
+
+.en  {font-family: 'Getshowfont', serif; font-size: 1.2rem;}
+
