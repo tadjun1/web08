@@ -51,6 +51,13 @@ header .gnb a {
 #work .work-box article img {
   width: 100%
 }
+.work-slick {
+	width: 86%;
+	margin: auto;
+}
+.bg-pic1 img {
+	width: 76%;
+}
 
 .pop-screen {
   width: 90%;

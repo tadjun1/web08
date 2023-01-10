@@ -53,6 +53,13 @@ header .gnb a {
 #work .work-box article img {
   width: 100%
 }
+.work-slick {
+	width: 80%;
+	margin: auto;
+}
+.bg-pic1 img {
+	width: 100%;
+}
 
 .pop-screen {
   width: 90%;
@@ -73,6 +80,12 @@ header .gnb a {
 	display: none;
 }
 #about .right-box {float: none; margin: auto; padding-left: 10%; width: 100%;}
+
+/* contact */
+.bg-pic2 {
+	bottom: -300px;
+	left: -100px;
+}
 
 @keyframes walk1 {
   0% {left: -17% }
